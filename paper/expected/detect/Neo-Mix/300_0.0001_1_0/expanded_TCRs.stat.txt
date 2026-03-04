@@ -1,0 +1,2 @@
+filter_info	num_case	num_control	num_expand	freq_case	freq_control
+300.0_0.0001_1.0_0.0	17579	8592	30	0.0285	0.0

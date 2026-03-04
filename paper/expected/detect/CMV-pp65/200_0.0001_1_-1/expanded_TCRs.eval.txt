@@ -1,0 +1,2 @@
+TP	FP	TN	FN	Precision	Recall	F1-score	F1-score_weight
+13	10	176	5	0.5652	0.7222	0.6341	0.9965
